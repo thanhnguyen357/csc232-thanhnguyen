@@ -1,2 +1,4 @@
 # csc232-thanhnguyen
-Introduction about my seft
+:grinning:
+**Introduction about myseft**
+
